@@ -12,7 +12,7 @@
 - 🎓 CSE student, learning to program with a strong foundation in **C**
 - 🐍 Currently leveling up in **Python**
 - 🛠️ I like building small tools that actually solve a problem — not just tutorial projects
-- 📌 Correctness > cleverness — I'd rather get it right than get it fast
+- 📌 I care about writing correct, well-thought-out code — not just code that happens to run
 - ⚡ Fun fact: most of my best learning happens by breaking something first
 
 ---
