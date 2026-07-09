@@ -61,4 +61,19 @@
 
 ---
 
+### ☕ Support My Work
+
+<p align="left">
+  <a href="upi://pay?pa=arjungoel@ptyes&amp;pn=Arjun%20Goel&amp;cu=INR"><img src="https://img.shields.io/badge/UPI-India-FF6600?style=for-the-badge&logo=googlepay&logoColor=white" /></a>
+  <a href="https://www.paypal.me/arjungoel2k5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PayPal-International-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<p>🇮🇳 In India? Scan to pay via any UPI app:</p>
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=upi%3A%2F%2Fpay%3Fpa%3Darjungoel%40ptyes%26pn%3DArjun%20Goel%26cu%3DINR" alt="UPI QR Code" />
+</p>
+
+---
+
 <p align="center"><i>Building one small tool at a time.</i></p>
