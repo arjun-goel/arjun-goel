@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arjun Goel</h1>
+<h3 align="center">CSE Student | Building practical tools with C & Python</h3>
 
-<!--
-**arjun-goel/arjun-goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Learning+Python+%7C+Solid+in+C;Building+tools+that+solve+real+problems" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 CSE student, learning to program with a strong foundation in **C**
+- 🐍 Currently leveling up in **Python**
+- 🛠️ I like building small tools that actually solve a problem — not just tutorial projects
+- 📌 Correctness > cleverness — I'd rather get it right than get it fast
+- ⚡ Fun fact: most of my best learning happens by breaking something first
+
+---
+
+### 🧰 Currently Building
+
+| Project | What it does |
+|---|---|
+| **`lecture_slide_extractor`** | Downloads YouTube lectures via `yt-dlp`, extracts slide screenshots, and compiles them into a PDF |
+| **Procedural Desert Illustration** | A Python + PIL script that procedurally generates desert-themed scene art |
+
+---
+
+### 🧑‍💻 Tech I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-goel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-goel&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-goel&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/arjun-goel-8b462820b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:goelarjun26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>Building one small tool at a time.</i></p>
