@@ -64,7 +64,12 @@
 ### ☕ Support My Work
 
 <p align="left">
-  <a href="upi://pay?pa=arjungoel@ptyes&amp;pn=Arjun%20Goel&amp;cu=INR"><img src="https://img.shields.io/badge/UPI-India-FF6600?style=for-the-badge&logo=googlepay&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/UPI-India-FF6600?style=for-the-badge&logo=googlepay&logoColor=white" />
+</p>
+
+<p align="left">UPI ID: <code>arjungoel@ptyes</code></p>
+
+<p align="left">
   <a href="https://www.paypal.me/ArjunGoel2k5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PayPal-International-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
 
