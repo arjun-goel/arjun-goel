@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Arjun Goel</h1>
 <h3 align="center">CSE Student | Building practical tools with C & Python</h3>
 
@@ -17,12 +18,11 @@
 
 ---
 
-### 🧰 Currently Building
+### 🏆 Featured Projects
 
-| Project | What it does |
-|---|---|
-| **`lecture_slide_extractor`** | Downloads YouTube lectures via `yt-dlp`, extracts slide screenshots, and compiles them into a PDF |
-| **Procedural Desert Illustration** | A Python + PIL script that procedurally generates desert-themed scene art |
+| Project | What it does | Status |
+|---|---|---|
+| **[SlideSnap](https://github.com/arjun-goel/slidesnap)** | A lecture slide extraction tool that processes YouTube links and uploaded videos, identifies suitable moments when the instructor is away from the board, extracts relevant frames, and compiles them into a downloadable PDF. | ✅ Completed (v1.0) |
 
 ---
 
